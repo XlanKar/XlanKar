@@ -4,6 +4,7 @@
 <p align=center>
   <kbd><img width=400 src="https://github-readme-stats.vercel.app/api?username=XlanKar&bg_color=00000000&text_color=58a6ff&hide_border=true&disable_animations=true&include_all_commits=true"><img height=155 width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=XlanKar&layout=compact&langs_count=10&bg_color=00000000&text_color=58a6ff&hide_border=true&disable_animations=true&card_width=485&line_height=35" /></kbd>
 </p>
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=XlanKar)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 <p align=center>
 <a href="https://gitlab.com/XlanKar"><img src="https://img.shields.io/badge/Gitlab--_.svg?style=social&logo=gitlab" alt="Gitlab@XlanKar"></a>
